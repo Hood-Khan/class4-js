@@ -32,3 +32,5 @@
 
 let cities = ['peshawar', 'multan', 'karachi', 'quetta', 'lahore', 'islamabad', 'nowshehra', 'abbottabad', 'charsadda', 'mohmand']
 console.log(cities[4])
+
+console.log(cities[0])
